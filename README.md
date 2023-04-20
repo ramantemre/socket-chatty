@@ -1,18 +1,21 @@
 # socket-chatty
 
+```
 node version should be v16.3.0
 set Node by using nvm
-
-```bash
 nvm use 16.3.0
 ```
 
-# To start Backend:
+### To start Backend:
 
+```
 npm install
 npm start
+```
 
-# To start Frontend:
+### To start Frontend:
 
+```
 npm install
 npm start
+```
